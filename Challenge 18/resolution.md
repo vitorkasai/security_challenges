@@ -6,11 +6,11 @@
 - O tamanho do bloco do contador é o mesmo que o do plaintext.
 - Não é seguro repetir o mesmo nonce com a mesma chave.
 
-![wikipedia ctr primeiro exemplo](https://en.wikipedia.org/wiki/File:ECB_encryption.svg)
+/assets/images/reschallenge181.png
 
 - Se você descobre o plain text correspondente ao cipher text de uma mensagem com uma keystream, é possível decriptar qualquer outra mensagem criptografada com o mesmo keystream.
 - O decrypt é realizado da mesma forma que o encrypt:
 
-![wikipedia ctr segundo exemplo](https://en.wikipedia.org/wiki/File:ECB_decryption.svg)
+/assets/images/reschallenge182.png
 
 - O XOR é realizado com o cipher text, gerando o plaintext.
