@@ -3,6 +3,6 @@ Resolução de challenges na área de segurança, encontrados em variados sites.
 Paulo Matias, professor de Ciência da Computação e Engenharia na UFSCar.
 
 Challenges resolvidos:
-Challenge 18 - Cryptopals
-Templated - HackTheBox
-Impossible Password - HackTheBox
+- Challenge 18 - Cryptopals
+- Templated - HackTheBox
+- Impossible Password - HackTheBox
