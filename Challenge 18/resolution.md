@@ -6,11 +6,13 @@
 - O tamanho do bloco do contador é o mesmo que o do plaintext.
 - Não é seguro repetir o mesmo nonce com a mesma chave.
 
-/assets/images/reschallenge181.png
+![wikipedia ctr um](security_challenges/Challenge 18/pictures/reschallenge181)
+![wikipedia ctr um](https://github.com/42kkkkkaren/security_challenges/blob/main/Challenge%2018/pictures/reschallenge181)
 
 - Se você descobre o plain text correspondente ao cipher text de uma mensagem com uma keystream, é possível decriptar qualquer outra mensagem criptografada com o mesmo keystream.
 - O decrypt é realizado da mesma forma que o encrypt:
 
-/assets/images/reschallenge182.png
+![wikipedia ctr dois](security_challenges/Challenge 18/pictures/reschallenge182)
+![wikipedia ctr dois](https://github.com/42kkkkkaren/security_challenges/blob/main/Challenge%2018/pictures/reschallenge182)
 
 - O XOR é realizado com o cipher text, gerando o plaintext.
